@@ -16,11 +16,11 @@ public class DiskScheduler {
         Result lookServiceSequence = Scheduler.look(new ArrayList<>(requests));
         Result sstfServiceSequence = Scheduler.sstf(new ArrayList<>(requests));
 
-        System.out.println("Scheduler\tTotal Time\tService Sequence");
+        System.out.println("\n\nScheduler\tTotal Time\tService Sequence");
         System.out.println("----------------------------");
-        System.out.println(fcfsServiceSequence.algorithmName + "\t" + fcfsServiceSequence.totalTime + "\t" + fcfsServiceSequence.servicingSequence);
-        System.out.println(lookServiceSequence.algorithmName + "\t" + lookServiceSequence.totalTime + "\t" + lookServiceSequence.servicingSequence);
-        System.out.println(sstfServiceSequence.algorithmName + "\t" + sstfServiceSequence.totalTime + "\t" + sstfServiceSequence.servicingSequence);
+        System.out.println(fcfsServiceSequence.algorithmName + "\t\t" + fcfsServiceSequence.totalTime + "\t\t" + fcfsServiceSequence.servicingSequence);
+        System.out.println(lookServiceSequence.algorithmName + "\t\t" + lookServiceSequence.totalTime + "\t\t\t" + lookServiceSequence.servicingSequence);
+        System.out.println(sstfServiceSequence.algorithmName + "\t\t" + sstfServiceSequence.totalTime + "\t\t\t" + sstfServiceSequence.servicingSequence);
 
     }
 }

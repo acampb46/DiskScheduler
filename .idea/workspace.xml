@@ -5,19 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ce4edbb-3601-495a-ba34-58d6afdd4dd7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DiskScheduler.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DiskScheduler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Request.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Result.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Scheduler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DiskScheduler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DiskScheduler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Scheduler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Scheduler.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "acampb46"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/acampb46/DiskScheduler.git",
+    "accountId": "9f7e40ae-e1dc-4a46-a337-f9de6d8a9b5a"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -108,7 +110,7 @@
       <workItem from="1713273491224" duration="286000" />
       <workItem from="1713273848441" duration="6048000" />
       <workItem from="1713285629375" duration="3966000" />
-      <workItem from="1713363033242" duration="2590000" />
+      <workItem from="1713363033242" duration="2901000" />
     </task>
     <servers />
   </component>

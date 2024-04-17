@@ -69,7 +69,7 @@ public class Scheduler {
         int timeThreshold = requests.get(1).submissionTime;
         int currentTime = 0;
 
-        System.out.println("\n========================================================");
+        System.out.println("========================================================");
         System.out.println("LOOK");
         System.out.println("========================================================");
 
@@ -113,7 +113,7 @@ public class Scheduler {
         int totalTime = 0;
         int currentHead = 0;
 
-        System.out.println("========================================================");
+        System.out.println("\n========================================================");
         System.out.println("SSTF");
         System.out.println("========================================================");
 
